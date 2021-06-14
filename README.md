@@ -1,4 +1,4 @@
-# Firebas Authentication Test
+# Firebase Authentication Test
 
 It is built using HTML, CSS, JS and Bootstrap as frontend and Firebase as backend to store data and authenticate the user.
 
